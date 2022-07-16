@@ -1,1 +1,1 @@
-This is a folder for my EDA projects.
+This is a folder for my Data Analysis projects.
